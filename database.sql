@@ -1,0 +1,1 @@
+CREATE DATABASE abu_portal;
