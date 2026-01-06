@@ -1,1 +1,1 @@
-<h2>Student Dashboard</h2>
+<h2>Admin Dashboard</h2>
